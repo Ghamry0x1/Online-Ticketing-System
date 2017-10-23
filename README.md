@@ -1,6 +1,6 @@
 # Online-Smart-Ticketing-System
 
-This smart ticketing software is a way to help a passenger to book a ride through the easiest way from his home to his desired destination and at the desired time so there will be variety in the bus types and the prices. Also, he can know the estimated time for the trip and the arrival of the bus. In Addition, it uses our new algorithm to generate unique QR-Codes for each ticket. When the bus arrives to the passenger, the passenger must scan his ticket QR-Code via the bus door QR-Scanner.
+This smart ticketing software is a way to help a passenger to book a ride through the easiest way from his home to his desired destination and at the desired time with a variety in bus types and tickets prices. Also, he can know the estimated time for the trip and the arrival of the bus. In Addition, it uses our new algorithm to generate unique QR-Codes for each ticket. When the bus arrives to the passenger, the passenger must scan his ticket QR-Code via the bus door QR-Scanner.
 
 ## Requirements:
 -	**User Requirements:** A smart system that helps to book tickets using an online application for a variety of transportations like buses or trains to ease the payment method and the booking method for the user.
